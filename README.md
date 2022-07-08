@@ -4,4 +4,4 @@ Images that gets used for my custom backgrounds in tetr.io, which you should che
 I do not own the backgrounds used except for one, all rights goes to their respective owners.
 
 [UPDATE - July 8th, 2022]
-This repo now also host songs for my website, not just background images for tetr.io anymore. Though bear in mind that not many songs will be added here, ao it's still for tetr.io.
+This repo now also host songs for my website, not just background images for tetr.io anymore. Though bear in mind that not many songs will be added here, so it's still for tetr.io.
